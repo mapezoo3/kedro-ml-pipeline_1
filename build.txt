@@ -1,0 +1,2 @@
+# Ideas
+Configure auto-scaling based on CPU utilization metrics
